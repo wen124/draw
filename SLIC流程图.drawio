@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T05:28:49.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jDO0oLBYb7bnmGEZKsx6" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T05:32:17.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bDzhz5Ut513187rzLfp3" version="21.0.6" type="github">
   <diagram name="第 1 页" id="reFhzkWXAq3rWunb2qQW">
     <mxGraphModel dx="1521" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,8 +44,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Hn3l6TQu6K1DUPlAZ9_-10" value="在种子点的 n*n 的领域内选择梯度值最小的像素点作为新的聚类中心&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="452" width="163" height="69" as="geometry" />
+        <mxCell id="2Hn3l6TQu6K1DUPlAZ9_-10" value="在种子点的 n*n 的领域内&lt;br&gt;选择梯度值最小的像素点&lt;br&gt;作为新的聚类中心&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="452" width="163.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="2Hn3l6TQu6K1DUPlAZ9_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="2Hn3l6TQu6K1DUPlAZ9_-13" target="2Hn3l6TQu6K1DUPlAZ9_-15">
           <mxGeometry relative="1" as="geometry" />
